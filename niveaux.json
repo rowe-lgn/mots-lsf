@@ -1,3 +1,4 @@
 [
-  { "id": "a1-1", "nom": "A1.1", "fichier": "mots-a1-1.txt" }
+  { "id": "a1-1", "nom": "A1.1", "fichier": "mots-a1-1.txt" },
+  { "id": "a1-2", "nom": "A1.2", "fichier": "mots-a1-2.txt" }
 ]
